@@ -47,7 +47,7 @@ Lexical_Analyzer/
 Clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Lexical-Analyzer.git
+git clone https://github.com/nehakishor204-svg/Lexical-Analyzer.git
 cd Lexical-Analyzer
 ```
 
